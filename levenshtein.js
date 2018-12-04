@@ -32,7 +32,7 @@ SOFTWARE.
 -----------------------------------------------------------------------------
 
 */
-alert('ok');
+alert('ok2');
 var levenshteinenator = (function () {
 
 	/**
